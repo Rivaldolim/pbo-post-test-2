@@ -3,6 +3,7 @@ Nama: Rivaldo
 NIM:2209116072
 
 1. Penjelasan Codingan
+
    
 Bagian 1: Package dan Kelas Utama (Toko_bangunan.java):
 Dalam package tokobangunan, terdapat kelas utama yang disebut Toko_bangunan. Kelas ini memiliki dua atribut statis, yaitu transaksi yang merepresentasikan objek Transaksi dan scanner untuk menerima input dari pengguna. Method main merupakan titik masuk program, dan program akan terus berjalan selama pengguna tidak memilih keluar. Disini user diminta untuk menginputkan pilihan menu.
